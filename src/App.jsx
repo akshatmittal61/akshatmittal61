@@ -117,6 +117,9 @@ const App = () => {
 		});
 		console.log(user);
 		setShow(true);
+		setTimeout(() => {
+			setShow(false);
+		}, 2500);
 	};
 	const handleFab = () => {
 		setFabIcon(!fabIcon);

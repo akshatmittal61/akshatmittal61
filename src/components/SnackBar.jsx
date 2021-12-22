@@ -6,7 +6,9 @@ const SnackBar = ({ text, delayTime = 5000 }) => {
 	const [open, setOpen] = useState(true);
 	setTimeout(() => {
 		setOpen(false);
+		console.log("I'm out");
 	}, delayTime);
+	console.log("I'm in");
 	AOS.init();
 	return (
 		<>
@@ -14,7 +16,7 @@ const SnackBar = ({ text, delayTime = 5000 }) => {
 				<div
 					className="snackbar"
 					data-aos="fade-up"
-					data-aos-duration="250"
+					style={{opacity: '1'}}
 				>
 					<span className="snackbar-text">{text}</span>
 				</div>
