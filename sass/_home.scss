@@ -1,0 +1,244 @@
+.contact {
+	width: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	&-box {
+		width: 85%;
+		height: 90%;
+		clip-path: polygon(
+			25% 0%,
+			75% 0%,
+			100% 50%,
+			75% 100%,
+			25% 100%,
+			0% 50%
+		);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: var(--brown);
+		position: relative;
+		@include respond(tab) {
+			clip-path: none;
+		}
+	}
+	&-side {
+		background: inherit;
+		height: 100%;
+		transition: all 0.8s ease-in-out;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		backface-visibility: hidden;
+		border-radius: 3px;
+		overflow: hidden;
+		box-shadow: 0 1.5rem 40px rgba($tcolor, 0.15);
+		&-back {
+			transform: rotateY(180deg);
+		}
+	}
+	&-container {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		justify-content: space-evenly;
+		align-items: center;
+		flex-flow: column;
+	}
+	&-head {
+		width: 100%;
+		height: 10%;
+		font-family: Montserrat, sans-serif;
+		color: var(--bgcolor);
+		text-align: center;
+		font-size: 4rem;
+		line-height: 4rem;
+		padding: 1rem 0;
+		text-transform: uppercase;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		&-me {
+			width: 60%;
+			height: 40%;
+		}
+		@include respond(tab) {
+			width: 85%;
+		}
+		@include respond(phone) {
+			flex-flow: column;
+			width: 95%;
+		}
+		&-image {
+			width: 35%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			&__img {
+				object-fit: cover;
+				max-width: 100%;
+				max-height: 100%;
+			}
+			@include respond(phone) {
+				width: 100%;
+				height: 50%;
+			}
+		}
+		&-content {
+			width: 65%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-flow: column;
+			& > * {
+				width: 100%;
+				height: 35%;
+				font-size: 2rem;
+				line-height: 2.5rem;
+				padding: 1.5rem;
+				display: flex;
+				justify-content: flex-start;
+				align-items: center;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				@include respond(tab) {
+					font-size: 1.75rem;
+				}
+				@include respond(phone) {
+					width: 95%;
+				}
+			}
+			&__name {
+				font-size: 3rem;
+				@include respond(tab) {
+					font-size: 2.5rem;
+				}
+				@include respond(phone) {
+					width: 95%;
+				}
+			}
+			@include respond(phone) {
+				width: 100%;
+				height: 50%;
+			}
+		}
+	}
+	&-body {
+		width: 70%;
+		height: 60%;
+		@include respond(tab) {
+			width: 90%;
+		}
+		@include respond(phone) {
+			width: 95%;
+			overflow-y: auto;
+		}
+	}
+	&-social {
+		width: 100%;
+		height: 100%;
+		padding: 0.5rem 1.5rem;
+		@include respond(tab) {
+			padding: 0.25rem 0.75rem;
+		}
+		@include respond(phone) {
+			width: 95%;
+		}
+		&-image {
+			width: 15%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			@include respond(tab) {
+				width: 10%;
+			}
+			@include respond(phone) {
+				width: 7.5%;
+			}
+			& img {
+				object-fit: cover;
+				width: 2rem;
+				height: 2rem;
+				filter: invert(1);
+				@include respond(tab) {
+					width: 1.5rem;
+					height: 1.5rem;
+				}
+				@include respond(phone) {
+					width: 1.25rem;
+					height: 1.25rem;
+				}
+			}
+		}
+		&-content {
+			width: 85%;
+			height: 100%;
+			font-size: 1.1rem;
+			padding: 0 0.75rem;
+			display: flex;
+			justify-content: flex-start;
+			align-items: center;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			@include respond(tab) {
+				padding: 0 0.5rem;
+				font-size: 1rem;
+			}
+		}
+	}
+	&-form {
+		width: 75%;
+		height: 80%;
+		display: flex;
+		flex-flow: column;
+		justify-content: space-evenly;
+		align-items: center;
+		@include respond(tab) {
+			width: 85%;
+		}
+		@include respond(phone) {
+			width: 95%;
+		}
+		& input,
+		& textarea {
+			width: 75%;
+			background-color: rgba(255, 255, 255, 0.25);
+			color: var(--bgcolor);
+			border-radius: 0;
+			&::placeholder {
+				color: var(--bgcolor-700);
+				font-size: 1rem;
+			}
+			@include respond(tab) {
+				width: 85%;
+			}
+			@include respond(phone) {
+				width: 95%;
+			}
+		}
+		& input {
+			height: 10%;
+			@include respond(tab) {
+				height: 7.5%;
+			}
+			@include respond(phone) {
+				height: 5%;
+			}
+		}
+		& textarea {
+			height: 45%;
+		}
+	}
+}

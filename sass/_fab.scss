@@ -1,0 +1,33 @@
+.fab {
+	background-color: var(--tcolor-400);
+	color: $bgcolor;
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
+	z-index: 2000;
+	border: none;
+	border-radius: 50%;
+	text-align: center;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-width: 0;
+	height: 3.5rem;
+	width: 3.5rem;
+	overflow: visible;
+	&,
+	& .material-icons {
+		transition: all var(--transition-time) ease-in-out;
+	}
+	&:hover {
+		background-color: var(--bgcolor-100);
+		color: $tcolor;
+	}
+	&:active,
+	&:focus {
+		outline: none;
+		background-color: var(--tcolor-700);
+		color: $bgcolor;
+	}
+}

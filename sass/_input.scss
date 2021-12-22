@@ -1,0 +1,49 @@
+input,
+textarea {
+	font: inherit;
+	text-rendering: auto;
+	background-color: var(--bgcolor);
+	color: var(--tcolor);
+	letter-spacing: normal;
+	word-spacing: normal;
+	line-height: normal;
+	text-transform: inherit;
+	text-indent: inherit;
+	text-shadow: inherit;
+	display: inline-block;
+	text-align: start;
+	appearance: auto;
+	cursor: text;
+	padding: 0.5rem;
+	&,
+	&:hover,
+	&:focus,
+	&:active,
+	&:focus-within,
+	&:focus-visible {
+		border: none;
+		outline: none;
+	}
+}
+input,
+textarea {
+	border: none;
+	outline: 3px solid transparent;
+	border-radius: $border-radius/5;
+	background-color: var(--bgcolor-400);
+	margin: 0.5rem;
+	padding: 0.5rem;
+	transition: all var(--transition-time) ease-in-out;
+	&:hover {
+		border: none;
+		outline: 3px solid transparent;
+	}
+	&:active,
+	&:focus {
+		border: none;
+		outline: 3px solid rgba(0, 0, 0, 0.2);
+	}
+	&::placeholder {
+		font-size: 0.875rem;
+	}
+}
