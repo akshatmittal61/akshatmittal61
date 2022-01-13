@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Button from "./components/Button";
 import favicon from "./images/favicon.png";
 import SnackBar from "./components/SnackBar";
+import emailjs from "emailjs-com";
 import image from "./images/contact.jpeg";
 import gh from "./images/github.svg";
 import ig from "./images/instagram.svg";
@@ -10,6 +11,7 @@ import tw from "./images/twitter.svg";
 import ph from "./images/phone.svg";
 import ml from "./images/email.svg";
 import wa from "./images/whatsapp.svg";
+import fb from "./images/facebook.svg";
 
 const App = () => {
 	const [show, setShow] = useState(false);
@@ -35,8 +37,13 @@ const App = () => {
 				handle: "instagram",
 			},
 			{
-				username: "@akshat-mittal-851073202",
-				link: "https://www.linkedin.com/in/akshat-mittal-851073202",
+				username: "akshatmittal2506@gmail.com",
+				link: "mailto:akshatmittal2506@gmail.com",
+				handle: "email",
+			},
+			{
+				username: "@akshatmitta61",
+				link: "https://www.linkedin.com/in/akshatmitta61/",
 				handle: "linkedin",
 			},
 			{
@@ -55,9 +62,9 @@ const App = () => {
 				handle: "whatsapp",
 			},
 			{
-				username: "akshatmittal2506@gmail.com",
-				link: "mailto:akshatmittal2506@gmail.com",
-				handle: "email",
+				username: "akshat.mittal.503",
+				link: "https://www.facebook.com/akshat.mittal.503/",
+				handle: "facebook",
 			},
 		],
 	};
@@ -77,6 +84,8 @@ const App = () => {
 				return ml;
 			case "whatsapp":
 				return wa;
+			case "facebook":
+				return fb;
 			default:
 				break;
 		}
@@ -97,6 +106,8 @@ const App = () => {
 				return "red";
 			case "whatsapp":
 				return "green";
+			case "facebook":
+				return "blue";
 			default:
 				break;
 		}
@@ -116,6 +127,16 @@ const App = () => {
 			message: "",
 		});
 		console.log(user);
+		console.log(process.env.SERVICE_ID);
+		emailjs
+			.sendForm(
+				process.env.SERVICE_ID,
+				process.env.TEMPLATE_ID,
+				e.target,
+				process.env.USER_ID
+			)
+			.then((res) => console.log(res))
+			.catch((err) => console.log(err));
 		setShow(true);
 		setTimeout(() => {
 			setShow(false);
