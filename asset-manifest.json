@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/akshatmittal61/static/css/main.5fc9fe6d.css",
-    "main.js": "/akshatmittal61/static/js/main.175ea9a6.js",
+    "main.css": "/akshatmittal61/static/css/main.0f1ae803.css",
+    "main.js": "/akshatmittal61/static/js/main.93e68039.js",
     "static/media/favicon.png": "/akshatmittal61/static/media/favicon.f216be050314e2836b31.png",
     "static/media/contact.jpeg": "/akshatmittal61/static/media/contact.63b4d15fec1f3d983161.jpeg",
     "static/media/github.svg": "/akshatmittal61/static/media/github.e2f073269da5b56e82387b15c3b59f5a.svg",
     "static/media/instagram.svg": "/akshatmittal61/static/media/instagram.90a80cd5b9a105845e0d07f0cdaf509b.svg",
     "static/media/whatsapp.svg": "/akshatmittal61/static/media/whatsapp.5960a89532a76320347f9c0e3705417f.svg",
     "static/media/twitter.svg": "/akshatmittal61/static/media/twitter.87682341d07c5f155f20c82e111fd3ae.svg",
-    "index.html": "/akshatmittal61/index.html",
     "static/media/email.svg": "/akshatmittal61/static/media/email.80b23b18d1593391d450dd1f4c0155f9.svg",
+    "index.html": "/akshatmittal61/index.html",
     "static/media/linkedin.svg": "/akshatmittal61/static/media/linkedin.f40410445e859153f9822ead79adc02e.svg",
     "static/media/phone.svg": "/akshatmittal61/static/media/phone.7df015ac50ab94f543b462dbed99f25e.svg",
-    "main.5fc9fe6d.css.map": "/akshatmittal61/static/css/main.5fc9fe6d.css.map",
-    "main.175ea9a6.js.map": "/akshatmittal61/static/js/main.175ea9a6.js.map"
+    "static/media/facebook.svg": "/akshatmittal61/static/media/facebook.033c50dd0b16de1fef2a20dfe6e465d4.svg",
+    "main.0f1ae803.css.map": "/akshatmittal61/static/css/main.0f1ae803.css.map",
+    "main.93e68039.js.map": "/akshatmittal61/static/js/main.93e68039.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fc9fe6d.css",
-    "static/js/main.175ea9a6.js"
+    "static/css/main.0f1ae803.css",
+    "static/js/main.93e68039.js"
   ]
 }

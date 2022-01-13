@@ -34,6 +34,7 @@ textarea {
 	margin: 0.5rem;
 	padding: 0.5rem;
 	transition: all var(--transition-time) ease-in-out;
+	resize: none;
 	&:hover {
 		border: none;
 		outline: 3px solid transparent;
