@@ -12,6 +12,7 @@ import ph from "./images/phone.svg";
 import ml from "./images/email.svg";
 import wa from "./images/whatsapp.svg";
 import fb from "./images/facebook.svg";
+import fl from "./images/file.svg";
 
 const App = () => {
 	const [show, setShow] = useState(false);
@@ -52,6 +53,11 @@ const App = () => {
 				handle: "github",
 			},
 			{
+				username: "My Resume",
+				link: "https://github.com/akshatmittal61/akshatmittal61/raw/master/resume.pdf",
+				handle: "resume",
+			},
+			{
 				username: "+91 94568 49466",
 				link: "tel:919456849466",
 				handle: "phone",
@@ -62,8 +68,8 @@ const App = () => {
 				handle: "whatsapp",
 			},
 			{
-				username: "akshat.mittal.503",
-				link: "https://www.facebook.com/akshat.mittal.503/",
+				username: "akshatmittal61",
+				link: "https://www.facebook.com/akshatmittal61/",
 				handle: "facebook",
 			},
 		],
@@ -86,6 +92,8 @@ const App = () => {
 				return wa;
 			case "facebook":
 				return fb;
+			case "resume":
+				return fl;
 			default:
 				break;
 		}
@@ -126,14 +134,12 @@ const App = () => {
 			email: "",
 			message: "",
 		});
-		console.log(user);
-		console.log(process.env.SERVICE_ID);
 		emailjs
 			.sendForm(
-				process.env.SERVICE_ID,
-				process.env.TEMPLATE_ID,
+				process.env.REACT_APP_SERVICE,
+				process.env.REACT_APP_TEMPLATE,
 				e.target,
-				process.env.USER_ID
+				process.env.REACT_APP_USER
 			)
 			.then((res) => console.log(res))
 			.catch((err) => console.log(err));

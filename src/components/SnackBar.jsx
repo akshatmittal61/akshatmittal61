@@ -8,7 +8,6 @@ const SnackBar = ({ text, delayTime = 5000 }) => {
 		setOpen(false);
 		console.log("I'm out");
 	}, delayTime);
-	console.log("I'm in");
 	AOS.init();
 	return (
 		<>

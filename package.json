@@ -8,7 +8,6 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "aos": "^2.3.4",
-    "dotenv": "^10.0.0",
     "emailjs-com": "^3.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -22,7 +21,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "sass": "node-sass public/sass/main.scss src/style.css -w"
+    "sass": "sass public/sass/main.scss src/style.css -w"
   },
   "eslintConfig": {
     "extends": [
