@@ -3,6 +3,7 @@ import Button from "./components/Button";
 import favicon from "./images/favicon.png";
 import SnackBar from "./components/SnackBar";
 import emailjs from "emailjs-com";
+import resume from "./assets/resume.pdf";
 import image from "./images/contact.jpeg";
 import gh from "./images/github.svg";
 import ig from "./images/instagram.svg";
@@ -54,7 +55,7 @@ const App = () => {
 			},
 			{
 				username: "My Resume",
-				link: "https://github.com/akshatmittal61/akshatmittal61/raw/master/resume.pdf",
+				link: resume,
 				handle: "resume",
 			},
 			{
