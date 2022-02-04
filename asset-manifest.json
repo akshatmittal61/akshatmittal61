@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/akshatmittal61/static/css/main.6c424844.css",
-    "main.js": "/akshatmittal61/static/js/main.1cb0f7e9.js",
+    "main.js": "/akshatmittal61/static/js/main.673b40c7.js",
     "static/media/favicon.png": "/akshatmittal61/static/media/favicon.f216be050314e2836b31.png",
-    "static/media/resume.pdf": "/akshatmittal61/static/media/resume.6cddab2a055dc7081dac.pdf",
+    "static/media/resume.pdf": "/akshatmittal61/static/media/resume.66498ed83b97b2e8a7a7.pdf",
     "static/media/contact.jpeg": "/akshatmittal61/static/media/contact.63b4d15fec1f3d983161.jpeg",
     "static/media/github.svg": "/akshatmittal61/static/media/github.e2f073269da5b56e82387b15c3b59f5a.svg",
     "static/media/instagram.svg": "/akshatmittal61/static/media/instagram.90a80cd5b9a105845e0d07f0cdaf509b.svg",
@@ -16,10 +16,10 @@
     "static/media/facebook.svg": "/akshatmittal61/static/media/facebook.033c50dd0b16de1fef2a20dfe6e465d4.svg",
     "static/media/file.svg": "/akshatmittal61/static/media/file.6415173e8c511cffee749f076a40b0b2.svg",
     "main.6c424844.css.map": "/akshatmittal61/static/css/main.6c424844.css.map",
-    "main.1cb0f7e9.js.map": "/akshatmittal61/static/js/main.1cb0f7e9.js.map"
+    "main.673b40c7.js.map": "/akshatmittal61/static/js/main.673b40c7.js.map"
   },
   "entrypoints": [
     "static/css/main.6c424844.css",
-    "static/js/main.1cb0f7e9.js"
+    "static/js/main.673b40c7.js"
   ]
 }
