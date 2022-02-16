@@ -19,9 +19,9 @@
 
 
 
-[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatmittal61&hide=issues&theme=dark)](https://github.com/akshatmittal61/github-readme-stats)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatmittal61&hide=issues&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal61&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal61&layout=compact&theme=codeSTACKr)
 
 
 
