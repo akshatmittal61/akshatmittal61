@@ -44,8 +44,8 @@ const App = () => {
 				handle: "email",
 			},
 			{
-				username: "@akshatmitta61",
-				link: "https://www.linkedin.com/in/akshatmitta61/",
+				username: "@akshatmittal61",
+				link: "https://www.linkedin.com/in/akshatmittal61/",
 				handle: "linkedin",
 			},
 			{
