@@ -2,11 +2,9 @@
 
 <h3 align="center">A passionate Full Stack developer from Meerut, India</h3>
 
-![akshatmittal61](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat)
+![akshatmittal61](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat) 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatmittal61/)
-
-[![Twitter](https://img.shields.io/twitter/follow/akshatmittal61?logo=twitter&style=for-the-badge)](https://twitter.com/akshatmittal61)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatmittal61/)[![Twitter](https://img.shields.io/twitter/follow/akshatmittal61?logo=twitter&style=for-the-badge)](https://twitter.com/akshatmittal61)
 
 -   🔭 I’m currently working on [Planner](https://github.com/akshatmittal61/planner), [Expenses Tracker](https://github.com/akshatmittal61/expenses-tracker), [Amigo](https://github.com/akshatmittal61/amigo), [Alumni Portal](https://github.com/akshatmittal61/alumni-portal-frontend)
 
@@ -24,9 +22,7 @@
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatmittal61&hide=issues&theme=codeSTACKr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal61&layout=compact&theme=codeSTACKr)
-
-![Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshatmittal61&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal61&layout=compact&theme=codeSTACKr) ![Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshatmittal61&theme=gotham)
 
 ---
 
