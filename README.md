@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Full Stack developer from Meerut, India</h3>
 
-![akshatmittal61](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat) 
+![akshatmittal61](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatmittal61/)[![Twitter](https://img.shields.io/twitter/follow/akshatmittal61?logo=twitter&style=for-the-badge)](https://twitter.com/akshatmittal61)
 
@@ -28,7 +28,7 @@
 
 ## Connect with me:
 
-<a href="https://akshatmittal61.github.io/akshatmittal61"><img src="https://akshatmittal61.github.io/akshatmittal61/static/media/favicon.f216be050314e2836b31.png" width="40" height="40" alt="Akshat Mittal" /></a>
+<a href="https://akshatmittal61.github.io/akshatmittal61"><img src="https://raw.githubusercontent.com/akshatmittal61/akshatmittal61/master/src/images/favicon.png" width="32" height="32" alt="Akshat Mittal" /></a>
 <a href="https://www.linkedin.com/in/akshatmitta61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://twitter.com/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://instagram.com/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshatmittal61" height="30" width="40" /></a>
@@ -66,3 +66,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+
+---
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akshatmittal61&theme=react-dark)
