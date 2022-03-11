@@ -12,6 +12,8 @@
 
 -   📝 I read articles on [dev.to](https://dev.to)
 
+-   👨‍💻 Find my resume here [https://akshatmittal61.github.io/modern_portfolio/resume.pdf](https://akshatmittal61.github.io/modern_portfolio/resume.pdf)
+
 -   👨‍💻 All of my projects are available at [https://akshatmittal61.github.io/akshatmittal61](https://akshatmittal61.github.io/akshatmittal61)
 
 -   💬 Ask me about **MERN and SASS**
