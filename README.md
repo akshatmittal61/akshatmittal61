@@ -70,15 +70,15 @@
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif' width='56' height='56' borderradius='16px'> </h2>
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatmittal61&hide=issues&theme=codeSTACKr)
+
 ![Metrics](https://metrics.lecoq.io/akshatmittal61?template=terminal)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
 
-<br>
 <footer align='center'>
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akshatmittal61&theme=react-dark)
-
 </footer>
