@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1>
 <div align="center">
 <img width="100%" height = "100%" src="./src/images/banner.png" alt="Banner Akshat Mittal" />
 </div>
@@ -13,7 +13,7 @@
 
 </p>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 50></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -29,7 +29,7 @@
 
 -   👨‍💻 Find my resume here: [My Resume](https://akshatmittal61.github.io/modern_portfolio/resume.pdf)
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24> </h2>
 <a href="https://github.com/akshatmittal61?tab=repositories&q=&type=&language=html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=javascript> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href="https://github.com/akshatmittal61?tab=repositories&q=&type=&language=css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -45,7 +45,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h2>
 
 <a href="https://akshatmittal61.github.io/akshatmittal61"><img align="center" src="https://raw.githubusercontent.com/akshatmittal61/akshatmittal61/master/src/images/favicon.png" width="32" height="32" alt="Akshat Mittal" /></a>
 <a href="https://www.linkedin.com/in/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
@@ -64,7 +64,6 @@
 <h2> Stuff I work on  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal61&layout=compact&theme=codeSTACKr)
-![Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshatmittal61&theme=gotham)
 <br>
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif' width='56' height='56' borderradius='16px'> </h2>
@@ -77,8 +76,3 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
-
-<footer align='center'>
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akshatmittal61&theme=react-dark)
-</footer>
