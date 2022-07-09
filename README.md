@@ -27,7 +27,7 @@
 
 -   📝 I read articles on [dev.to](https://dev.to)
 
--   👨‍💻 Find my resume here: [My Resume](https://akshatmittal61.github.io/modern_portfolio/resume.pdf)
+-   👨‍💻 Find my resume here: [My Resume](https://akshatmittal61.vercel.app/resume)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24> </h2>
 <a href="https://github.com/akshatmittal61?tab=repositories&q=&type=&language=html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
