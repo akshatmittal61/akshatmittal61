@@ -17,13 +17,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
--   🔭 I’m currently working on [Planner](https://github.com/akshatmittal61/planner), [Expenses Tracker](https://github.com/akshatmittal61/expenses-tracker), [Amigo](https://github.com/akshatmittal61/amigo), [Alumni Portal](https://github.com/akshatmittal61/alumni-portal-frontend)
+-   🔭 I’m currently working on [Planner](https://planner.netlify.app)
 
--   🌱 I’m currently learning DSA, Full stack development
+-   🌱 I’m currently learning DSA and Full stack development
 
--   👯 I’m looking to collaborate on Open Source Projects, Tech Articles
+-   👯 I’m looking to collaborate on Open Source Projects and Tech Articles
 
--   💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source, DSA
+-   💬 Always open for a discussion about JavaScript, Freelancing Opportunites, Open Source and DSA
 
 -   📝 I read articles on [dev.to](https://dev.to)
 
@@ -47,18 +47,18 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h2>
 
-<a href="https://akshatmittal61.github.io/akshatmittal61"><img align="center" src="https://raw.githubusercontent.com/akshatmittal61/akshatmittal61/master/src/images/favicon.png" width="32" height="32" alt="Akshat Mittal" /></a>
+<a href="https://akshatmittal61.github.io/akshatmittal61"><img align="center" src="https://raw.githubusercontent.com/akshatmittal61/akshatmittal61.github.io/master/src/images/avatar.svg" width="32" height="32" alt="Akshat Mittal" /></a>
 <a href="https://www.linkedin.com/in/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://www.github.com/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://www.twitter.com/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href="https://leetcode.com/akshatmittal61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://instagram.com/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshatmittal61" height="30" width="40" /></a>
+<a href="https://discord.gg/#9098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9098" height="30" width="40" /></a>
 <a href="https://fb.com/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akshatmittal61" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://codepen.io/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://dev.to/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshatmittal61" height="30" width="40" /></a>
-<a href="https://leetcode.com/akshatmittal61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatmittal61" height="30" width="40" /></a>
-<a href="https://discord.gg/#9098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9098" height="30" width="40" /></a>
 <a href="https://medium.com/@akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" /></a>
 
 <h2> Stuff I work on  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64> </h2>
@@ -70,7 +70,6 @@
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatmittal61&hide=issues&theme=codeSTACKr)
 
-![Metrics](https://metrics.lecoq.io/akshatmittal61?template=terminal)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = 32></h2>
 
