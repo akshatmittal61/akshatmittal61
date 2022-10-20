@@ -75,3 +75,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+
+# Hacktoberfest 2022 🎃
+
+[![@akshatmittal61's Holopin board](https://holopin.me/akshatmittal61)](https://holopin.io/@akshatmittal61)
