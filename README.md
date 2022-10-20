@@ -4,7 +4,6 @@
 </div>
 <p align='center'>
 
-:smile:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=akshatmittal61.akshatmittal61)
 ![akshatmittal61](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -17,7 +16,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
--   🔭 I’m currently working on [Planner](https://planner.netlify.app)
+-   🔭 I’m currently working on [Planner](https://planner.up.railway.app)
 
 -   🌱 I’m currently learning DSA and Full stack development
 
@@ -61,13 +60,9 @@
 <a href="https://dev.to/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://medium.com/@akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" /></a>
 
-<h2> Stuff I work on  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64> </h2>
+<h2> My GitHub work stuff and stats <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64> </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal61&layout=compact&theme=codeSTACKr)
-<br>
-
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif' width='56' height='56' borderradius='16px'> </h2>
-
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatmittal61&hide=issues&theme=codeSTACKr)
 
 
