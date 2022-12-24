@@ -1,6 +1,6 @@
-<h1> Hello Fellow < Developers /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1>
+<h1> Hello Fellow &lt;Developers /&gt; <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> </h1>
 <div align="center">
-<img width="100%" height = "100%" src="./src/images/banner.png" alt="Banner Akshat Mittal" />
+<a href="https://akshatmittal61.vercel.app/"><img width="100%" height = "100%" src="./src/images/banner.png" alt="Banner Akshat Mittal" /></a>
 </div>
 <p align='center'>
 
@@ -14,15 +14,13 @@
 
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="30%" align="right" alt="Github" src="./src/images/alone.png" />
 
--   🔭 I’m currently working on [Planner](https://planner.up.railway.app)
-
--   🌱 I’m currently learning DSA and Full stack development
+-   🔭 Currently working on [Flavorsome](https://flavorsome.netlify.app) and learning DSA / Full stack development
 
 -   👯 I’m looking to collaborate on Open Source Projects and Tech Articles
 
--   💬 Always open for a discussion about JavaScript, Freelancing Opportunites, Open Source and DSA
+-   💬 Always open for a discussion about JavaScript, Freelancing Opportunites, Open Source, and Tech in general.
 
 -   📝 I read articles on [dev.to](https://dev.to)
 
@@ -46,7 +44,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h2>
 
-<a href="https://akshatmittal61.github.io/akshatmittal61"><img align="center" src="https://raw.githubusercontent.com/akshatmittal61/akshatmittal61.github.io/master/src/images/avatar.svg" width="32" height="32" alt="Akshat Mittal" /></a>
+<a href="https://akshatmittal61.vercel.app/"><img align="center" src="https://raw.githubusercontent.com/akshatmittal61/akshatmittal61.github.io/master/src/images/avatar.svg" width="32" height="32" alt="Akshat Mittal" /></a>
 <a href="https://www.linkedin.com/in/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://www.github.com/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://www.twitter.com/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
