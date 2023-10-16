@@ -38,7 +38,6 @@
 <a href="https://www.twitter.com/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <a href="https://leetcode.com/akshatmittal61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://discord.gg/#9098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9098" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akshatmittal61" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://codepen.io/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshatmittal61" height="30" width="40" /></a>
 <a href="https://dev.to/akshatmittal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshatmittal61" height="30" width="40" /></a>
 
