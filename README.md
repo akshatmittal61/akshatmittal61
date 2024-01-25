@@ -16,24 +16,26 @@
 -   🔭 Currently working at [AthenaSquare](https://athenasquare.org) and learning DSA / Full stack development
 -   👯 I’m looking to collaborate on Open Source Projects and Tech Articles
 -   💬 Always open for a discussion about Freelancing Opportunites, Open Source, and Tech in general.
--   📝 I read articles on [dev.to](https://dev.to)
+-   📝 I read and write articles on [dev.to](https://dev.to)
 -   👨‍💻 Find my resume here: [My Resume](https://bit.ly/akshat_mittal)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24> </h2>
 <a href="https://github.com/akshatmittal61?tab=repositories&q=&type=&language=css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=scss> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=scss> <img width ='32px' src ='https://raw.githubusercontent.com/athenasquare/athena-assets/main/skills/sass.svg'> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/athenasquare/athena-assets/main/skills/tailwindcss.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=javascript> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=typescript> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=c> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=cpp> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=reactjs> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href="https://github.com/akshatmittal61?tab=repositories&q=&type=&language=nodejs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=mysql> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'> </a>
+<a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=reactjs> <img width ='32px' src ='https://raw.githubusercontent.com/athenasquare/athena-assets/main/skills/reactjs.svg'> </a>
+<a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=nextjs> <img width ='32px' src ='https://raw.githubusercontent.com/athenasquare/athena-assets/main/skills/next.svg'> </a>
+<a href="https://github.com/akshatmittal61?tab=repositories&q=&type=&language=nodejs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/athenasquare/athena-assets/main/skills/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=mysql> <img width ='32px' src ='https://raw.githubusercontent.com/athenasquare/athena-assets/main/skills/mysql.svg'> </a>
 <a href= https://github.com/akshatmittal61?tab=repositories&q=&type=&language=mongodb> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h2>
 
-<a href="https://akshatmittal61.vercel.app/"><img align="center" src="https://akshatmittal61.vercel.app/favicon.png" width="32" height="32" alt="Akshat Mittal" /></a>
+<a href="https://akshatmittal61.vercel.app/"><img align="center" src="https://github.com/akshatmittal61.png" width="32" height="32" alt="Akshat Mittal" /></a>
 <a href="https://www.linkedin.com/in/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://www.twitter.com/akshatmittal61"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <a href="https://leetcode.com/akshatmittal61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatmittal61" height="30" width="40" /></a>
@@ -45,3 +47,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmittal61&layout=compact&theme=codeSTACKr)
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatmittal61&hide=issues&theme=codeSTACKr)
+<!-- [![Akshat Mittal profile views](https://u8views.com/api/v1/github/profiles/84612609/views/day-week-month-total-count.svg)](https://u8views.com/github/akshatmittal61) -->
